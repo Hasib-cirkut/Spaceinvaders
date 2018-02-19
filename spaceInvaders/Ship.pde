@@ -3,6 +3,7 @@
   {
     float x = width/2;
     float xDir = 0;
+    float temp = 0;
     
     
     void show()
