@@ -2,7 +2,7 @@
   class Enemy
   {
     float x, y, r = 15;
-    boolean isHit = true;
+    boolean isHit = false;
     
     Enemy(float x, float y)
     {
